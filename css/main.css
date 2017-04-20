@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  line-height: 1.5;
+  font-size: 18px;
+}
+header {
+  background-color: #D53B45;
+  color: #fff;
+  width: 100%;
+  padding: 100px 0px;
+}
+main {
+  padding: 100px 15px;
+  background: #2492CD;
+  color: #fff;
+}
+h2 {
+  margin: 0 0 50px 0;
+}
+ul {
+  padding-left: 15px;
+}
+.wrapper {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0px auto;
+  padding: 0;
+}
+footer {
+  height: 150px;
+  line-height: 150px;
+  background: #0A5780;
+  color: #fff;
+  text-align: center;
+}
